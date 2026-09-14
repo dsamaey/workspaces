@@ -1,0 +1,15 @@
+{
+  "id": "f79490ca-7315-4428-8787-11d7e9e2e5e4",
+  "user_id": "a120bef8-e66c-4054-b7cb-a29f51800246",
+  "title": "My Workspace",
+  "description": "This is my workspace.",
+  "type": "s3",
+  "status": "provisioning",
+  "details": "Workspace is being provisioned",
+  "quota": 1000,
+  "parameters": {
+    "bucket_name": "my-bucket"
+  },
+  "created_at": "2026-09-14T19:15:08.769552",
+  "updated_at": "2026-09-14T19:15:08.769552"
+}
