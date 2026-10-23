@@ -4,8 +4,8 @@
   "title": "My Last Workspace",
   "description": "This is my last workspace.",
   "type": "cloudferro",
-  "status": "provisioning",
-  "details": "Workspace is being provisioned",
+  "status": "ready",
+  "details": "Workspace bucket provisioned",
   "quota": 1000,
   "parameters": {
     "bucket_name": "my-last-bucket",
@@ -13,5 +13,12 @@
     "endpoint_url": "https://s3.waw3-1.cloudferro.com"
   },
   "created_at": "2026-10-23T08:13:29.349357",
-  "updated_at": "2026-10-23T08:13:29.349357"
+  "updated_at": "2026-10-23T08:13:31.494245",
+  "url": "https://s3.waw3-1.cloudferro.com/my-last-bucket",
+  "properties": {
+    "bucket_name": "my-last-bucket",
+    "region": "waw3-1",
+    "endpoint_url": "https://s3.waw3-1.cloudferro.com",
+    "s3_url": "s3://my-last-bucket"
+  }
 }
