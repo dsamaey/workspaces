@@ -1,0 +1,17 @@
+{
+  "id": "a2bc05eb-f79a-4fad-82af-5042b3e2d266",
+  "user_id": "a120bef8-e66c-4054-b7cb-a29f51800246",
+  "title": "Demo create workspace1",
+  "description": "Demo workspace using server provisioned bucket.",
+  "type": "cloudferro",
+  "status": "provisioning",
+  "details": "Workspace is being provisioned",
+  "quota": 1000,
+  "parameters": {
+    "bucket_name": "generated-bucket1",
+    "region": "waw3-1",
+    "endpoint_url": "https://s3.waw3-1.cloudferro.com"
+  },
+  "created_at": "2026-10-29T08:33:56.437298",
+  "updated_at": "2026-10-29T08:33:56.437298"
+}
