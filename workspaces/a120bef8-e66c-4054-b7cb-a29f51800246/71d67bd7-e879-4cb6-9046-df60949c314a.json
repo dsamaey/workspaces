@@ -4,8 +4,8 @@
   "title": "Yet Another Workspace",
   "description": "This is yet another workspace.",
   "type": "cloudferro",
-  "status": "provisioning",
-  "details": "Workspace is being provisioned",
+  "status": "unavailable",
+  "details": "Bucket provisioning failed; storage may have been partially created.",
   "quota": 1000,
   "parameters": {
     "bucket_name": "yet-another-bucket",
@@ -13,5 +13,5 @@
     "endpoint_url": "https://s3.waw3-1.cloudferro.com"
   },
   "created_at": "2026-10-29T07:55:00.229811",
-  "updated_at": "2026-10-29T07:55:00.229811"
+  "updated_at": "2026-10-29T07:55:02.997150"
 }
