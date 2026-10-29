@@ -1,0 +1,17 @@
+{
+  "id": "71d67bd7-e879-4cb6-9046-df60949c314a",
+  "user_id": "a120bef8-e66c-4054-b7cb-a29f51800246",
+  "title": "Yet Another Workspace",
+  "description": "This is yet another workspace.",
+  "type": "cloudferro",
+  "status": "provisioning",
+  "details": "Workspace is being provisioned",
+  "quota": 1000,
+  "parameters": {
+    "bucket_name": "yet-another-bucket",
+    "region": "waw3-1",
+    "endpoint_url": "https://s3.waw3-1.cloudferro.com"
+  },
+  "created_at": "2026-10-29T07:55:00.229811",
+  "updated_at": "2026-10-29T07:55:00.229811"
+}
